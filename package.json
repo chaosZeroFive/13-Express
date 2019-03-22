@@ -1,0 +1,26 @@
+{
+  "name": "13-express",
+  "version": "1.0.0",
+  "description": "Express that will be deployed to Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosZeroFive/13-Express.git"
+  },
+  "author": "Alton W. Carroll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaosZeroFive/13-Express/issues"
+  },
+  "homepage": "https://github.com/chaosZeroFive/13-Express#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}

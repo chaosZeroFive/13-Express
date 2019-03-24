@@ -12,15 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/chaosZeroFive/13-Express.git"
   },
-  "author": "Alton W. Carroll",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chaosZeroFive/13-Express/issues"
   },
   "homepage": "https://github.com/chaosZeroFive/13-Express#readme",
   "dependencies": {
-    "dotenv": "^7.0.0",
-    "express": "^4.16.4",
-    "mysql": "^2.16.0"
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.2",
+    "express": "^4.16.4"
   }
 }
